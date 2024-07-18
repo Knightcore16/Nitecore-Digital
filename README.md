@@ -15,7 +15,7 @@ CSS3
 JavaScript
 
 ### Getting Started
-To view the live website, visit [insert live website link here].
+To view the live website, visit [here](https://nitecore-digital.vercel.app/).
 
 To run the website locally:
 
